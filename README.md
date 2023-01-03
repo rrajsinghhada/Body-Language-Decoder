@@ -1,5 +1,5 @@
 # Body-Language-Decorder
-<img src="./Decoder_in_action.gif" width="250">
+<img src="./Decoder_in_action.gif" width="338">
 ## dependencies
 * python3.7-3.10
 * python 3.9(recommended)
