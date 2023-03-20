@@ -1,4 +1,4 @@
-# Body-Language-Decorder
+# Body-Language-Decoder
 <img src="./Decoder_in_action.gif" width="338">
 ## dependencies
 * python3.7-3.10
